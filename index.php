@@ -194,7 +194,7 @@ Sa nama možete da isplanirate i putovanje prema Vašim željama i da rezerviše
 	</table>
 	
   </form> 
- <p> <a href = "Logout.php" tite = "Logout"> Odjavi se </p>
+ <p> <a href = "Logout.php" tite = "Logout"> Odjavi se </a> </p>
   
   
 </div>
